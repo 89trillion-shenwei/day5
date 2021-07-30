@@ -8,8 +8,8 @@ import (
 )
 
 const (
-	writeWait      = 5 * time.Second
-	pongWait       = 10 * time.Second
+	writeWait      = 360 * time.Second
+	pongWait       = 360 * time.Second
 	pingPeriod     = (pongWait * 9) / 10
 	maxMessageSize = 512
 )

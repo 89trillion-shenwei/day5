@@ -39,3 +39,277 @@ service:2021/07/29 22:02:56 handlerData.go:53: wqe请求发送广播:wqelogin
 service:2021/07/29 22:03:00 handlerData.go:53: wqe请求发送广播:22433
 service:2021/07/29 22:03:00 hub.go:55: 23已下线
 service:2021/07/29 22:03:01 hub.go:55: wqe已下线
+service:2021/07/30 11:19:33 hub.go:47: 21已上线
+service:2021/07/30 11:19:33 handlerData.go:51: 21请求发送广播:21login
+service:2021/07/30 11:19:52 hub.go:55: 21已下线
+service:2021/07/30 11:22:04 hub.go:47: 232已上线
+service:2021/07/30 11:22:04 handlerData.go:51: 232请求发送广播:232login
+service:2021/07/30 11:22:10 hub.go:47: 132已上线
+service:2021/07/30 11:22:10 handlerData.go:51: 132请求发送广播:132login
+service:2021/07/30 11:22:13 handlerData.go:51: 232请求发送广播:232
+service:2021/07/30 11:22:17 handlerData.go:51: 132请求发送广播:32435
+service:2021/07/30 11:22:23 hub.go:55: 232已下线
+service:2021/07/30 11:22:29 hub.go:55: 132已下线
+service:2021/07/30 11:23:02 hub.go:47: 23223已上线
+service:2021/07/30 11:23:02 handlerData.go:51: 23223请求发送广播:23223login
+service:2021/07/30 11:23:21 hub.go:55: 23223已下线
+service:2021/07/30 11:26:43 hub.go:47: 131已上线
+service:2021/07/30 11:26:43 handlerData.go:51: 131请求发送广播:131login
+service:2021/07/30 11:26:46 handlerData.go:51: 131请求发送广播:2342
+service:2021/07/30 11:26:48 handlerData.go:51: 131请求发送广播:234354r
+service:2021/07/30 11:26:50 handlerData.go:51: 131请求发送广播:1342434
+service:2021/07/30 11:26:53 handlerData.go:51: 131请求发送广播:34325
+service:2021/07/30 11:26:55 handlerData.go:51: 131请求发送广播:3453r53
+service:2021/07/30 11:27:06 handlerData.go:51: 131请求发送广播:131 exit
+service:2021/07/30 11:27:06 hub.go:55: 131已下线
+service:2021/07/30 11:27:48 hub.go:47: 1311已上线
+service:2021/07/30 11:27:48 handlerData.go:51: 1311请求发送广播:1311login
+service:2021/07/30 11:28:30 hub.go:47: 11已上线
+service:2021/07/30 11:28:30 handlerData.go:51: 11请求发送广播:11login
+service:2021/07/30 11:28:33 handlerData.go:51: 11请求发送广播:11 exit
+service:2021/07/30 11:28:33 hub.go:55: 11已下线
+service:2021/07/30 11:28:37 hub.go:47: 111已上线
+service:2021/07/30 11:28:37 handlerData.go:51: 111请求发送广播:111login
+service:2021/07/30 11:28:55 hub.go:55: 111已下线
+service:2021/07/30 11:46:31 handlerData.go:51: 1311请求发送广播:1223
+service:2021/07/30 11:46:36 handlerData.go:51: 1311请求发送广播:
+service:2021/07/30 11:46:39 hub.go:47: 13111已上线
+service:2021/07/30 11:46:39 handlerData.go:51: 13111请求发送广播:13111login
+service:2021/07/30 11:46:39 hub.go:55: 13111已下线
+service:2021/07/30 11:46:43 hub.go:55: 1311已下线
+service:2021/07/30 11:46:49 hub.go:47: 13111已上线
+service:2021/07/30 11:46:49 handlerData.go:51: 13111请求发送广播:13111login
+service:2021/07/30 11:46:52 hub.go:47: 32313111已上线
+service:2021/07/30 11:46:52 handlerData.go:51: 32313111请求发送广播:32313111login
+service:2021/07/30 11:46:52 hub.go:55: 13111已下线
+service:2021/07/30 11:46:52 hub.go:55: 32313111已下线
+service:2021/07/30 11:53:42 hub.go:47: 11已上线
+service:2021/07/30 11:53:42 handlerData.go:51: 11请求发送广播:11login
+service:2021/07/30 11:53:45 handlerData.go:51: 11请求发送广播:11 exit
+service:2021/07/30 11:53:45 hub.go:55: 11已下线
+service:2021/07/30 11:54:23 hub.go:47: 13已上线
+service:2021/07/30 11:54:23 handlerData.go:51: 13请求发送广播:13login
+service:2021/07/30 11:54:24 handlerData.go:51: 13请求发送广播:13 exit
+service:2021/07/30 11:54:24 hub.go:55: 13已下线
+service:2021/07/30 11:55:22 hub.go:47: 23已上线
+service:2021/07/30 11:55:22 handlerData.go:51: 23请求发送广播:23login
+service:2021/07/30 11:55:25 handlerData.go:51: 23请求发送广播:213
+service:2021/07/30 11:55:27 handlerData.go:51: 23请求发送广播:23 exit
+service:2021/07/30 11:55:27 hub.go:55: 23已下线
+service:2021/07/30 11:56:05 hub.go:47: 13已上线
+service:2021/07/30 11:56:05 handlerData.go:51: 13请求发送广播:13login
+service:2021/07/30 11:56:07 handlerData.go:51: 13请求发送广播:13 exit
+service:2021/07/30 11:56:07 hub.go:55: 13已下线
+service:2021/07/30 11:58:14 hub.go:47: 1已上线
+service:2021/07/30 11:58:14 handlerData.go:51: 1请求发送广播:1login
+service:2021/07/30 11:58:15 handlerData.go:51: 1请求发送广播:1 exit
+service:2021/07/30 11:58:15 hub.go:55: 1已下线
+service:2021/07/30 11:58:18 hub.go:47: 1已上线
+service:2021/07/30 11:58:18 handlerData.go:51: 1请求发送广播:1login
+service:2021/07/30 11:58:19 handlerData.go:51: 1请求发送广播:1 exit
+service:2021/07/30 11:58:19 hub.go:55: 1已下线
+service:2021/07/30 11:58:53 hub.go:47: 21已上线
+service:2021/07/30 11:58:53 handlerData.go:51: 21请求发送广播:21login
+service:2021/07/30 11:58:56 handlerData.go:51: 21请求发送广播:132
+service:2021/07/30 11:58:58 handlerData.go:51: 21请求发送广播:21 exit
+service:2021/07/30 11:58:58 hub.go:55: 21已下线
+service:2021/07/30 11:59:18 hub.go:47: 21已上线
+service:2021/07/30 11:59:18 handlerData.go:51: 21请求发送广播:21login
+service:2021/07/30 11:59:31 handlerData.go:51: 21请求发送广播:21 exit
+service:2021/07/30 11:59:31 hub.go:55: 21已下线
+service:2021/07/30 11:59:41 hub.go:47: 21已上线
+service:2021/07/30 11:59:41 handlerData.go:51: 21请求发送广播:21login
+service:2021/07/30 12:03:55 hub.go:47: 32已上线
+service:2021/07/30 12:03:55 handlerData.go:51: 32请求发送广播:32login
+service:2021/07/30 12:04:00 handlerData.go:51: 32请求发送广播:2324
+service:2021/07/30 12:04:06 handlerData.go:51: 21请求发送广播:32434
+service:2021/07/30 12:04:07 handlerData.go:51: 21请求发送广播:21 exit
+service:2021/07/30 12:04:07 hub.go:55: 21已下线
+service:2021/07/30 12:04:13 hub.go:47: 32已上线
+service:2021/07/30 12:04:13 handlerData.go:51: 32请求发送广播:32login
+service:2021/07/30 12:04:28 handlerData.go:51: 32请求发送广播:32 exit
+service:2021/07/30 12:04:28 hub.go:55: 32已下线
+service:2021/07/30 12:13:33 hub.go:47: 3212已上线
+service:2021/07/30 12:13:33 handlerData.go:51: 3212请求发送广播:3212login
+service:2021/07/30 12:13:33 hub.go:55: 3212已下线
+service:2021/07/30 12:13:33 hub.go:55: 32已下线
+service:2021/07/30 12:13:34 hub.go:47: 32已上线
+service:2021/07/30 12:13:34 handlerData.go:51: 32请求发送广播:32login
+service:2021/07/30 12:13:38 handlerData.go:51: 32请求发送广播:1231
+service:2021/07/30 12:13:41 hub.go:55: 32已下线
+service:2021/07/30 12:14:40 hub.go:47: 21已上线
+service:2021/07/30 12:14:40 handlerData.go:51: 21请求发送广播:21login
+service:2021/07/30 12:14:59 hub.go:47: 21已上线
+service:2021/07/30 12:14:59 handlerData.go:51: 21请求发送广播:21login
+service:2021/07/30 12:34:27 hub.go:47: 243已上线
+service:2021/07/30 12:34:27 handlerData.go:53: 243请求发送广播:243login
+service:2021/07/30 12:36:08 hub.go:55: 243已下线
+service:2021/07/30 12:36:40 hub.go:47: 11已上线
+service:2021/07/30 12:36:40 handlerData.go:53: 11请求发送广播:11login
+service:2021/07/30 12:36:56 hub.go:47: 211已上线
+service:2021/07/30 12:36:56 handlerData.go:53: 211请求发送广播:211login
+service:2021/07/30 12:38:18 hub.go:55: 211已下线
+service:2021/07/30 12:38:21 hub.go:55: 11已下线
+service:2021/07/30 15:14:22 hub.go:47: 11已上线
+service:2021/07/30 15:14:22 handlerData.go:53: 11请求发送广播:11login
+service:2021/07/30 15:14:48 hub.go:47: 112已上线
+service:2021/07/30 15:14:48 handlerData.go:53: 112请求发送广播:112login
+service:2021/07/30 15:22:37 handlerData.go:53: 112请求发送广播:112 exit
+service:2021/07/30 15:22:37 hub.go:55: 112已下线
+service:2021/07/30 15:23:04 hub.go:47: 112已上线
+service:2021/07/30 15:23:04 handlerData.go:53: 112请求发送广播:112login
+service:2021/07/30 15:23:04 hub.go:55: 112已下线
+service:2021/07/30 15:23:04 hub.go:55: 11已下线
+service:2021/07/30 15:23:08 hub.go:47: 1122已上线
+service:2021/07/30 15:23:08 handlerData.go:53: 1122请求发送广播:1122login
+service:2021/07/30 15:23:48 hub.go:55: 1122已下线
+service:2021/07/30 15:24:29 hub.go:47: 12已上线
+service:2021/07/30 15:24:29 handlerData.go:53: 12请求发送广播:12login
+service:2021/07/30 15:24:30 handlerData.go:53: 12请求发送广播:12 exit
+service:2021/07/30 15:24:30 hub.go:55: 12已下线
+service:2021/07/30 15:24:32 hub.go:47: 12已上线
+service:2021/07/30 15:24:32 handlerData.go:53: 12请求发送广播:12login
+service:2021/07/30 15:24:33 hub.go:55: 12已下线
+service:2021/07/30 15:25:03 hub.go:47: 2131已上线
+service:2021/07/30 15:25:03 handlerData.go:53: 2131请求发送广播:2131login
+service:2021/07/30 15:25:05 handlerData.go:53: 2131请求发送广播:2131 exit
+service:2021/07/30 15:25:05 hub.go:55: 2131已下线
+service:2021/07/30 15:25:07 hub.go:47: 2131已上线
+service:2021/07/30 15:25:07 handlerData.go:53: 2131请求发送广播:2131login
+service:2021/07/30 15:25:10 handlerData.go:53: 2131请求发送广播:2131 exit
+service:2021/07/30 15:25:10 hub.go:55: 2131已下线
+service:2021/07/30 15:25:29 hub.go:47: 213已上线
+service:2021/07/30 15:25:29 handlerData.go:53: 213请求发送广播:213login
+service:2021/07/30 15:25:32 handlerData.go:53: 213请求发送广播:213 exit
+service:2021/07/30 15:25:32 hub.go:55: 213已下线
+service:2021/07/30 15:25:45 hub.go:47: 213已上线
+service:2021/07/30 15:25:45 handlerData.go:53: 213请求发送广播:213login
+service:2021/07/30 15:25:49 handlerData.go:53: 213请求发送广播:2332
+service:2021/07/30 15:25:56 handlerData.go:53: 213请求发送广播:213 exit
+service:2021/07/30 15:25:56 hub.go:55: 213已下线
+service:2021/07/30 15:26:01 hub.go:47: 213已上线
+service:2021/07/30 15:26:01 handlerData.go:53: 213请求发送广播:213login
+service:2021/07/30 15:26:02 handlerData.go:53: 213请求发送广播:132
+service:2021/07/30 15:26:02 hub.go:55: 213已下线
+service:2021/07/30 15:34:27 hub.go:47: 21已上线
+service:2021/07/30 15:34:27 handlerData.go:53: 21请求发送广播:21login
+service:2021/07/30 15:34:29 hub.go:47: 12已上线
+service:2021/07/30 15:34:29 handlerData.go:53: 12请求发送广播:12login
+service:2021/07/30 15:34:33 handlerData.go:53: 12请求发送广播:12 exit
+service:2021/07/30 15:34:33 hub.go:55: 12已下线
+service:2021/07/30 15:34:55 hub.go:47: 12已上线
+service:2021/07/30 15:34:55 handlerData.go:53: 12请求发送广播:12login
+service:2021/07/30 15:35:06 hub.go:47: 212已上线
+service:2021/07/30 15:35:06 handlerData.go:53: 212请求发送广播:212login
+service:2021/07/30 15:35:06 hub.go:55: 212已下线
+service:2021/07/30 15:35:06 hub.go:55: 21已下线
+service:2021/07/30 15:35:13 handlerData.go:53: 12请求发送广播:23
+service:2021/07/30 15:35:27 handlerData.go:53: 12请求发送广播:12 exit
+service:2021/07/30 15:35:27 hub.go:55: 12已下线
+service:2021/07/30 15:38:03 hub.go:47: 22已上线
+service:2021/07/30 15:38:03 handlerData.go:53: 22请求发送广播:22login
+service:2021/07/30 15:38:04 handlerData.go:53: 22请求发送广播:22 exit
+service:2021/07/30 15:38:04 hub.go:55: 22已下线
+service:2021/07/30 15:38:06 hub.go:47: 22已上线
+service:2021/07/30 15:38:06 handlerData.go:53: 22请求发送广播:22login
+service:2021/07/30 15:38:09 handlerData.go:53: 22请求发送广播:232
+service:2021/07/30 15:38:11 handlerData.go:53: 22请求发送广播:22 exit
+service:2021/07/30 15:38:11 hub.go:55: 22已下线
+service:2021/07/30 15:44:49 hub.go:47: 12已上线
+service:2021/07/30 15:44:49 handlerData.go:53: 12请求发送广播:12login
+service:2021/07/30 15:44:51 handlerData.go:53: 12请求发送广播:12 exit
+service:2021/07/30 15:44:51 hub.go:55: 12已下线
+service:2021/07/30 15:46:07 hub.go:47: 213已上线
+service:2021/07/30 15:46:07 handlerData.go:53: 213请求发送广播:213login
+service:2021/07/30 15:46:08 handlerData.go:53: 213请求发送广播:213 exit
+service:2021/07/30 15:46:08 hub.go:55: 213已下线
+service:2021/07/30 15:54:01 hub.go:47: 12已上线
+service:2021/07/30 15:54:01 handlerData.go:53: 12请求发送广播:12login
+service:2021/07/30 15:54:02 handlerData.go:53: 12请求发送广播:12 exit
+service:2021/07/30 15:54:02 hub.go:55: 12已下线
+service:2021/07/30 15:54:56 hub.go:47: 122已上线
+service:2021/07/30 15:54:56 handlerData.go:53: 122请求发送广播:122login
+service:2021/07/30 15:54:57 handlerData.go:53: 122请求发送广播:122 exit
+service:2021/07/30 15:54:57 hub.go:55: 122已下线
+service:2021/07/30 15:56:29 hub.go:47: 22已上线
+service:2021/07/30 15:56:29 handlerData.go:53: 22请求发送广播:22login
+service:2021/07/30 15:56:30 handlerData.go:53: 22请求发送广播:22 exit
+service:2021/07/30 15:56:30 hub.go:55: 22已下线
+service:2021/07/30 15:57:22 hub.go:47: 333已上线
+service:2021/07/30 15:57:22 handlerData.go:53: 333请求发送广播:333login
+service:2021/07/30 15:57:23 handlerData.go:53: 333请求发送广播:333 exit
+service:2021/07/30 15:57:23 hub.go:55: 333已下线
+service:2021/07/30 15:58:18 hub.go:47: 33333已上线
+service:2021/07/30 15:58:18 handlerData.go:53: 33333请求发送广播:33333login
+service:2021/07/30 15:58:20 hub.go:55: 33333已下线
+service:2021/07/30 15:58:55 hub.go:47: 33已上线
+service:2021/07/30 15:58:55 handlerData.go:53: 33请求发送广播:33login
+service:2021/07/30 15:58:56 handlerData.go:53: 33请求发送广播:33 exit
+service:2021/07/30 15:58:56 hub.go:55: 33已下线
+service:2021/07/30 16:01:21 hub.go:47: 22已上线
+service:2021/07/30 16:01:21 handlerData.go:53: 22请求发送广播:22login
+service:2021/07/30 16:01:27 hub.go:47: 222已上线
+service:2021/07/30 16:01:27 handlerData.go:53: 222请求发送广播:222login
+service:2021/07/30 16:01:29 handlerData.go:53: 222请求发送广播:222 exit
+service:2021/07/30 16:01:29 hub.go:55: 222已下线
+service:2021/07/30 16:03:00 hub.go:55: 22已下线
+service:2021/07/30 16:03:27 hub.go:47: 13已上线
+service:2021/07/30 16:03:27 handlerData.go:53: 13请求发送广播:13login
+service:2021/07/30 16:03:32 hub.go:47: 232已上线
+service:2021/07/30 16:03:32 handlerData.go:53: 232请求发送广播:232login
+service:2021/07/30 16:03:33 handlerData.go:53: 232请求发送广播:232 exit
+service:2021/07/30 16:03:33 hub.go:55: 232已下线
+service:2021/07/30 16:05:06 hub.go:47: wq13已上线
+service:2021/07/30 16:05:06 handlerData.go:53: wq13请求发送广播:wq13login
+service:2021/07/30 16:05:21 hub.go:47: 131已上线
+service:2021/07/30 16:05:21 handlerData.go:53: 131请求发送广播:131login
+service:2021/07/30 16:05:21 hub.go:55: 13已下线
+service:2021/07/30 16:05:28 handlerData.go:53: wq13请求发送广播:wq13 exit
+service:2021/07/30 16:05:28 hub.go:55: wq13已下线
+service:2021/07/30 16:05:40 hub.go:55: 131已下线
+service:2021/07/30 16:06:29 hub.go:47: 12已上线
+service:2021/07/30 16:06:29 handlerData.go:53: 12请求发送广播:12login
+service:2021/07/30 16:06:34 hub.go:47: 232已上线
+service:2021/07/30 16:06:34 handlerData.go:53: 232请求发送广播:232login
+service:2021/07/30 16:06:35 handlerData.go:53: 232请求发送广播:232 exit
+service:2021/07/30 16:06:35 hub.go:55: 232已下线
+service:2021/07/30 16:11:47 hub.go:55: 12已下线
+service:2021/07/30 16:12:10 hub.go:47: 212已上线
+service:2021/07/30 16:12:10 handlerData.go:53: 212请求发送广播:212login
+service:2021/07/30 16:12:16 hub.go:47: 13已上线
+service:2021/07/30 16:12:16 handlerData.go:53: 13请求发送广播:13login
+service:2021/07/30 16:12:16 handlerData.go:53: 13请求发送广播:13 exit
+service:2021/07/30 16:12:16 hub.go:55: 13已下线
+service:2021/07/30 16:12:30 hub.go:47: 13已上线
+service:2021/07/30 16:12:30 handlerData.go:53: 13请求发送广播:13login
+service:2021/07/30 16:12:34 handlerData.go:53: 13请求发送广播:213
+service:2021/07/30 16:12:35 handlerData.go:53: 13请求发送广播:13 exit
+service:2021/07/30 16:12:35 hub.go:55: 13已下线
+service:2021/07/30 16:12:38 hub.go:55: 212已下线
+service:2021/07/30 16:15:36 hub.go:47: 2123已上线
+service:2021/07/30 16:15:36 handlerData.go:53: 2123请求发送广播:2123login
+service:2021/07/30 16:15:41 hub.go:47: 131已上线
+service:2021/07/30 16:15:41 handlerData.go:53: 131请求发送广播:131login
+service:2021/07/30 16:15:45 handlerData.go:53: 131请求发送广播:131 exit
+service:2021/07/30 16:15:45 hub.go:55: 131已下线
+service:2021/07/30 16:17:03 hub.go:55: 2123已下线
+service:2021/07/30 16:17:49 hub.go:47: 12232已上线
+service:2021/07/30 16:17:49 handlerData.go:53: 12232请求发送广播:12232login
+service:2021/07/30 16:17:54 hub.go:47: 13已上线
+service:2021/07/30 16:17:54 handlerData.go:53: 13请求发送广播:13login
+service:2021/07/30 16:17:57 handlerData.go:53: 13请求发送广播:13 exit
+service:2021/07/30 16:17:57 hub.go:55: 13已下线
+service:2021/07/30 16:19:56 hub.go:55: 12232已下线
+service:2021/07/30 16:20:34 hub.go:47: 11已上线
+service:2021/07/30 16:20:34 handlerData.go:53: 11请求发送广播:11login
+service:2021/07/30 16:20:38 hub.go:47: 1已上线
+service:2021/07/30 16:20:38 handlerData.go:53: 1请求发送广播:1login
+service:2021/07/30 16:20:40 handlerData.go:53: 1请求发送广播:1 exit
+service:2021/07/30 16:20:40 hub.go:55: 1已下线
+service:2021/07/30 16:20:43 hub.go:47: 1已上线
+service:2021/07/30 16:20:43 handlerData.go:53: 1请求发送广播:1login
+service:2021/07/30 16:20:46 handlerData.go:53: 1请求发送广播:131231
+service:2021/07/30 16:20:49 handlerData.go:53: 11请求发送广播:3112
+service:2021/07/30 16:20:51 handlerData.go:53: 11请求发送广播:11 exit
+service:2021/07/30 16:20:51 hub.go:55: 11已下线
+service:2021/07/30 16:21:17 hub.go:55: 1已下线

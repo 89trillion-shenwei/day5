@@ -3,10 +3,12 @@ package Ws
 import (
 	"day5/internal/message1"
 	"day5/internal/model"
+	"day5/internal/service"
 	"day5/logUtil"
 	"fmt"
-	"github.com/gorilla/websocket"
 	"time"
+
+	"github.com/gorilla/websocket"
 )
 
 type Message struct {
@@ -43,7 +45,7 @@ func (m Message) ReadPump() {
 		}
 		//解析数据
 
-		m.Msg = model.Proto2Struct(message)
+		m.Msg = service.Proto2Struct(message)
 		switch m.Msg.MsgType {
 		//广播
 		case "talk":
@@ -97,7 +99,7 @@ func (s *Message) WritePump() {
 				c.write(websocket.CloseMessage, []byte{})
 				return
 			}
-			if err := c.write(websocket.TextMessage, model.Struct2proto(message)); err != nil {
+			if err := c.write(websocket.TextMessage, service.Struct2proto(message)); err != nil {
 				return
 			}
 		case <-ticker.C:
